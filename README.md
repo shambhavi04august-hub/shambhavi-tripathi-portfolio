@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This portfolio showcases my academic j
 
 ## 📌 Live Portfolio
 
-🔗 https://shambhavi04august-hub.github.io/shambhavi-portfolio/
+🔗 https://shambhavitripathi-portfolio.netlify.app/
 
 ## 👩‍💼 About
 
@@ -50,7 +50,7 @@ shambhavi-portfolio/
 
 ## 🌐 Connect With Me
 
-- 🌍 **Portfolio:** https://shambhavi04august-hub.github.io/shambhavi-portfolio/
+- 🌍 **Portfolio:** https://shambhavitripathi-portfolio.netlify.app/
 - 💼 **LinkedIn:** https://www.linkedin.com/in/shambhavi-tripathi-94bb9937a
 - 📧 **Email:** shambhavi04august@gmail.com
 - 📱 **Phone:** +91 6393307393
