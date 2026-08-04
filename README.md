@@ -46,7 +46,7 @@ shambhavi-portfolio/
 
 ## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/shambhavi04august-hub/shambhavi04august-hub/blob/main/Shambhavi_Tripathi_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/shambhavi04august-hub/shambhavi04august-hub/blob/main/Resume.pdf)
 
 ## 🌐 Connect With Me
 
@@ -55,7 +55,7 @@ shambhavi-portfolio/
 - 📧 **Email:** shambhavi04august@gmail.com
 - 📱 **Phone:** +91 6393307393
 - 💻 **GitHub:** https://github.com/shambhavi04august-hub
-- 📄 **Resume:** [View Resume](https://github.com/shambhavi04august-hub/shambhavi04august-hub/blob/main/Shambhavi_Tripathi_Resume.pdf)
+- 📄 **Resume:** [View Resume](https://github.com/shambhavi04august-hub/shambhavi04august-hub/blob/main/Resume.pdf)
 
 ## ⭐ If you like this project
 
